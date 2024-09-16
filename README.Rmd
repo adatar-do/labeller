@@ -23,7 +23,7 @@ knitr::opts_chunk$set(
 [![CRAN status](https://www.r-pkg.org/badges/version/labeler)](https://CRAN.R-project.org/package=labeler)
 <!-- badges: end -->
 
-This package contains functions to assign and use data labels in an easy and efficient way. With an easy-to-share structure.
+This package contains functions to assign and use data labels in an easy and efficient way. With an easy to share structure.
 
 ## Installation
 
@@ -61,6 +61,6 @@ Please note that the `labeler` project is released with a [Contributor Code of C
 <hr/>
 
 ```{r echo=FALSE}
-Dmisc::big_button(href = "./articles/labeler.html")
+Dmisc::big_button(text = "Get started!", href = "./articles/labeler.html")
 ```
 
